@@ -1,1 +1,2 @@
-print("version rama conflicto")
+
+print("Conflicto resuelto")
